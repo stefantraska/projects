@@ -1,0 +1,3 @@
+Maximum Score Midterm 100.0
+Minimum Score Midterm 0.0
+Average Score Midterm 55.0

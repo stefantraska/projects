@@ -1,0 +1,78 @@
+Report for Peterson,Laura Exam # 1
+Question #1 2.0 points out of 2.0
+Question #2 0.0 points out of 2.0
+Question #3 4.0 points out of 4.0
+Question #4 6.0 points out of 6.0
+Final Score: 12.0 out of 14.0
+
+Report for Sanders,Mike Exam # 1
+Question #1 2.0 points out of 2.0
+Question #2 2.0 points out of 2.0
+Question #3 4.0 points out of 4.0
+Question #4 2.0 points out of 6.0
+Final Score: 10.0 out of 14.0
+
+Report for Costas,John Exam # 1
+Question #1 2.0 points out of 2.0
+Question #2 2.0 points out of 2.0
+Question #3 0.0 points out of 4.0
+Question #4 2.0 points out of 6.0
+Final Score: 6.0 out of 14.0
+
+Report for Peterson,Laura Exam # 2
+Question #1 2.0 points out of 2.0
+Question #2 2.0 points out of 2.0
+Question #3 0.0 points out of 4.0
+Question #4 8.0 points out of 8.0
+Question #5 0.0 points out of 6.0
+Final Score: 12.0 out of 22.0
+
+Report for Sanders,Mike Exam # 2
+Question #1 2.0 points out of 2.0
+Question #2 2.0 points out of 2.0
+Question #3 0.0 points out of 4.0
+Question #4 8.0 points out of 8.0
+Question #5 6.0 points out of 6.0
+Final Score: 18.0 out of 22.0
+
+Report for Costas,John Exam # 2
+Question #1 0.0 points out of 2.0
+Question #2 2.0 points out of 2.0
+Question #3 4.0 points out of 4.0
+Question #4 8.0 points out of 8.0
+Question #5 6.0 points out of 6.0
+Final Score: 20.0 out of 22.0
+
+Report for Peterson,Laura Exam # 3
+Question #1 4.0 points out of 4.0
+Question #2 4.0 points out of 4.0
+Question #3 4.0 points out of 4.0
+Question #4 6.0 points out of 6.0
+Final Score: 18.0 out of 18.0
+
+Report for Sanders,Mike Exam # 3
+Question #1 0.0 points out of 4.0
+Question #2 4.0 points out of 4.0
+Question #3 4.0 points out of 4.0
+Question #4 3.0 points out of 6.0
+Final Score: 11.0 out of 18.0
+
+Report for Costas,John Exam # 3
+Question #1 0.0 points out of 4.0
+Question #2 0.0 points out of 4.0
+Question #3 4.0 points out of 4.0
+Question #4 3.0 points out of 6.0
+Final Score: 7.0 out of 18.0
+
+Minimum for Exam # 1 6.0
+Maximum for Exam # 1 12.0
+Average for Exam # 1 9
+Minimum for Exam # 2 12.0
+Maximum for Exam # 2 20.0
+Average for Exam # 2 16
+Minimum for Exam # 3 7.0
+Maximum for Exam # 3 18.0
+Average for Exam # 3 12
+Letter Grade for Peterson,Laura B
+Letter Grade for Sanders,Mike C
+Letter Grade for Costas,John F

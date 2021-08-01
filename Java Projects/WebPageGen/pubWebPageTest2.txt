@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Example1</title>
+   </head>
+   <body>
+   <h1>Introduction</h1>
+   <p>
+      Fear the turtle
+      <img src="testudo.jpg" width="200" height="300" alt="Testudo Image">
+   </p>
+   </body>
+</html>
+
+EndTest

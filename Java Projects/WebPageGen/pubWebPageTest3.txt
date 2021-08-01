@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Example2</title>
+   </head>
+   <body>
+   <table>
+      <tr><td>Dog</td><td></td></tr>
+      <tr><td></td><td>Cat</td></tr>
+   </table>
+   <table>
+      <tr><td>Red</td><td>Blue</td></tr>
+      <tr><td>Green</td><td>Yellow</td></tr>
+   </table>
+   <ol>
+   </ol>
+   </body>
+</html>
+List Count: 1
+Paragraph Count: 0
+Table Count: 2
+TableElement Utilization: 75.0
+
+EndTest

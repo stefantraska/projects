@@ -1,0 +1,12 @@
+Question Text: Abstract classes cannot have constructors.
+Points: 2.0
+Correct Answer: False
+Question Text: The equals method returns a boolean.
+Points: 4.0
+Correct Answer: True
+Question Text: Identifiers can start with numbers.
+Points: 3.0
+Correct Answer: False
+Exam score for Smith,John 9.0
+Exam score for Peterson,Rose 5.0
+Exam score for Sanders,Linda 0.0

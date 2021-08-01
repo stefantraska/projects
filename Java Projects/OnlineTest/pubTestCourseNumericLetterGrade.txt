@@ -1,0 +1,13 @@
+Numeric grade for Peterson,Laura 60.0
+Exam #1 Score 70.0
+Question #1 10.0 points out of 10.0
+Question #2 0.0 points out of 20.0
+Question #3 40.0 points out of 40.0
+Question #4 20.0 points out of 30.0
+Final Score: 70.0 out of 100.0
+Exam #2 Score 50.0
+Question #1 10.0 points out of 10.0
+Question #2 0.0 points out of 50.0
+Question #3 40.0 points out of 40.0
+Final Score: 50.0 out of 100.0
+Course letter grade: D

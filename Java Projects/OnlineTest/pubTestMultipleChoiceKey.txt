@@ -1,0 +1,12 @@
+Question Text: Which of the following are valid ids?
+A: house   B: 674   C: age   D: &
+Points: 3.0
+Correct Answer: [A, C]
+Question Text: Which of the following methods belong to the Object class?
+A: equals   B: hashCode   C: separate   D: divide 
+Points: 2.0
+Correct Answer: [A, B]
+Question Text: Which of the following allow us to define a constant?
+A: abstract   B: equals   C: class   D: final 
+Points: 4.0
+Correct Answer: [D]

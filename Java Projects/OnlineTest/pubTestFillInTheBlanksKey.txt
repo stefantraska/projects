@@ -1,0 +1,6 @@
+Question Text: Name two types of initialization blocks.
+Points: 4.0
+Correct Answer: [non-static, static]
+Question Text: Name the first three types of primitive types discussed in class.
+Points: 6.0
+Correct Answer: [boolean, double, int]
