@@ -1,3 +1,0 @@
-Cortes,Laura 100.0 A
-Peterson,Laura 65.0 D
-Sanders,Tom 0.0 F

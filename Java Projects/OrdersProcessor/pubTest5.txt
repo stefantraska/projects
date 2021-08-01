@@ -1,5 +1,0 @@
-itemsData.txt
-y
-100
-DataSetThree
-pubTest5Results.txt

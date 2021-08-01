@@ -1,5 +1,0 @@
-itemsData.txt
-n
-25
-DataSetOne
-pubTest3Results.txt

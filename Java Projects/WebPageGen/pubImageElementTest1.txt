@@ -1,5 +1,0 @@
-   <img id="img1" src="testudo.jpg" width="84" height="111" alt="Testudo Image">
-SecondElement
-      <img id="img2" src="testudo.jpg" width="84" height="111" alt="Testudo Image">
-
-EndTest
