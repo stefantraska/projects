@@ -1,0 +1,15 @@
+N2 Machine Simulator - The purpose of this program is to replicate the 32768-byte N2 machine's instructions being printed 
+and checked for validity of instructions. Registers are stored and maintained to process instructions. This program also 
+checks whether the program is considered safe and follows all input rules.
+
+Multithreaded Line Checker - This is a multithreaded program that opens each file, reads the file by character, determines 
+the length of the line, and keeps track of the number of lines in each file that are over 80 characters.
+
+Dynamically Allocated Priority Queue - A priority queue in which each node in the structure is dynamically allocated. The 
+priority queue can enqueue, dequeue, and return its data values with zero memory leaks.
+
+Compilation Commands - This file deals with the loading, reading, and executing of compilation and testing commands, 
+using forking techniques and a data structure named Commands. The data structure used is a linked list, where each node contains a 
+command. Zero memory leaks occur in this project.
+
+Assembly Code - This project is a conversion of code from C to MIPS assembly code.
