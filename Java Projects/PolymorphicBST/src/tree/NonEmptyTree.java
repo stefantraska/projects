@@ -3,17 +3,7 @@ package tree;
 import java.util.Collection;
 
 /**
- * This class represents a non-empty search tree. An instance of this class
- * should contain:
- * <ul>
- * <li>A key
- * <li>A value (that the key maps to)
- * <li>A reference to a left Tree that contains key:value pairs such that the
- * keys in the left Tree are less than the key stored in this tree node.
- * <li>A reference to a right Tree that contains key:value pairs such that the
- * keys in the right Tree are greater than the key stored in this tree node.
- * </ul>
- *  
+ * This class represents a non-empty search tree. 
  */
  public class NonEmptyTree<K extends Comparable<K>, V> implements Tree<K, V> {
 
