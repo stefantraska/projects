@@ -1,9 +1,14 @@
-Graphs - This program is an implentation of a graph with edges and vertices using a hash map. Functions include breadth first search, depth first search, and Dijkstras algorithm.
+Graphs - This program is an implentation of a graph with edges and vertices using a hash map. 
+Functions include breadth first search, depth first search, and Dijkstras algorithm.
 
-OnlineTest - This project stores data for exams using a command line. Functions include adding exams, questions for each exams (with multiple question types), students, and student scores for each exam.
+OnlineTest - This project stores data for exams using a command line. 
+Functions include adding exams, questions for each exams (with multiple question types), students, and student scores for each exam.
 
-OrdersProcessor - This project reads data set of multiple orders, processes the items being ordered, and provides a summary report with all orders. This is done using multithreading, synchronization, and hash maps.
+OrdersProcessor - This project reads data set of multiple orders, processes the items being ordered, and provides a summary report with all orders. 
+This is done using multithreading, synchronization, and hash maps.
 
-PolymorphicBST - Implements a Binary Search Tree. Functions include a search, insertion, deletion, finding min/max, returning a subtree with a certain range of values, and getting the height. Traversals can also be done through right to root to left traversal, in order traversal, and right-root-left traversal using recursion.
+PolymorphicBST - Implements a Binary Search Tree. Functions include a search, insertion, deletion, finding min/max, returning a 
+subtree with a certain range of values, and getting the height. Traversals can also be done through right to root to left traversal, 
+in order traversal, and right-root-left traversal using recursion.
 
 WebPageGen - This program generates HTMl code with tags such as anchors, paragraphs, list, images, headings, and tables.
