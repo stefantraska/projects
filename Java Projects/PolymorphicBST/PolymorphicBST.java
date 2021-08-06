@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * This class represents the polymorphic tree. 
  * The implementation uses classes implementing the Tree interface to represent the
- * actual search tree. Some methods of this class has been implemented for you.
+ * actual search tree.
  *  
  */
 public class PolymorphicBST<K extends Comparable<K>, V>  {
