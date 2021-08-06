@@ -1,0 +1,19 @@
+StockNewsReader - This program checks to see if a stock has a change in over 1%, and if so, sends a text to the user of the top 
+news related to the company. I automated this so it checked a certain stock everyday for me.
+
+FlightDealFinder - This program finds and prints flight deals found online though an API.
+
+NutritionTracker - This program takes in input of exercise, processes input through an API, and then adds it to an excel sheet through an API.
+
+Password_Manager - This program takes in input of a website, username, and password, then stores it in a data file. This information 
+can be retrieved though the program.
+
+WeatherHelp - This program checks the weather through an API and texts the user whether to being an umbrella or not.
+
+PongGame - A simple GUI pong game between two players. 
+
+SnakeGame - A simple GUI snake game with a scoreboard and food to increase the size of the snake.
+
+IntrinsicValue - This program calculates the intrinsic value of the stock given.
+
+DaysInBetweenDates - This program counts the number of days between today and the input date.
