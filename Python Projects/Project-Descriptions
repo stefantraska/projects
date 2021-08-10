@@ -1,6 +1,9 @@
 StockNewsReader - This program checks to see if a stock has a change in over 1%, and if so, sends a text to the user of the top 
 news related to the company. I automated this so it checked a certain stock everyday for me.
 
+ZillowAnalyzer - This program scrapes through mulyiple pages of a certain filter and location on Zillow, stores the data, and 
+puts it into an excel sheet using an API. It also gives staistics on the average price, standard deviation, and 25/75 percentile.
+
 FlightDealFinder - This program finds and prints flight deals found online though an API.
 
 NutritionTracker - This program takes in input of exercise, processes input through an API, and then adds it to an excel sheet through an API.
